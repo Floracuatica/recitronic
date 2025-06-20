@@ -25,6 +25,6 @@ recitronic.vercel.app
 
 
 🪄 Créditos
-Proyecto desarrollado por el Grupo X como parte del Bootcamp de Desarrollo Web.
+Proyecto desarrollado por Rommy Bejar, Grupo 3  como parte del Bootcamp de Desarrollo Web.
 Con mucho cariño, orden y estilo 🌱✨
 
