@@ -21,6 +21,9 @@
 
 ## 📦 Puedes verlo en:
 
+recitronic.vercel.app
+
+
 🪄 Créditos
 Proyecto desarrollado por el Grupo X como parte del Bootcamp de Desarrollo Web.
 Con mucho cariño, orden y estilo 🌱✨
